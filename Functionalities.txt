@@ -1,0 +1,6 @@
+1)signup/Log in
+2)register for the tournament
+3)receive confirmation
+4)contact us
+5)receive the newsletter
+6)??
